@@ -49,5 +49,5 @@ Pastikan kamu mengatur variabel environment berikut jika diperlukan untuk integr
 * `VFY`    : Endpoint Verifikasi Pembelian / Alight Creative
 
 ---
-🔐 **Dibuat oleh:** Reyz4YouXGod (ReyCloud)  
+🔐 **Dibuat oleh:** ReyCode (ReyCloud)  
 © 2026 Solusi Hosting Web Terbaik
