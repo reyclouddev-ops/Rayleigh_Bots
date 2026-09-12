@@ -23,24 +23,24 @@ Repository resmi untuk sistem dan manajemen bot otomatis berbasis Node.js/ESM ya
 * **Backup System**: Fitur pencadangan direktori proyek otomatis dalam bentuk arsip `.zip` dengan indikator progres interaktif.
 
 ## 📂 Struktur Direktori Proyek
-Rayleigh_Bots/
-├── database/           # Penyimpanan data lokal bot
-├── image/              # Kumpulan aset gambar dan banner
-├── plugins/            # Modul perintah (commands) bot WhatsApp
-├── system/             # Core engine, konfigurasi, dan helper script
-├── .env_example        # Contoh konfigurasi environment
-├── config.js           # Konfigurasi utama bot
-├── index.js            # Titik masuk utama aplikasi (Entry point)
-└── package.json        # Daftar dependensi modul Node.js
+Rayleigh_Bots/<br>
+├── database/ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Penyimpanan data lokal bot<br>
+├── image/ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Kumpulan aset gambar dan banner<br>
+├── plugins/ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Modul perintah (commands) bot WhatsApp<br>
+├── system/ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Core engine, konfigurasi, dan helper script<br>
+├── .env_example &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Contoh konfigurasi environment<br>
+├── config.js &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Konfigurasi utama bot<br>
+├── index.js &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Titik masuk utama aplikasi (Entry point)<br>
+└── package.json &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;# Daftar dependensi modul Node.js
 
 ## 🛠️ Instalasi & Menjalankan Lokal
-1. Clone repository ini ke perangkatmu:
-   git clone https://github.com/reyclouddev-ops/Rayleigh_Bots.git
-   cd Rayleigh_Bots
-2. Install semua modul dan dependensi yang dibutuhkan:
-   npm install
-3. Jalankan bot:
-   npm start
+1. Clone repository ini ke perangkatmu:<br>
+   `git clone https://github.com/reyclouddev-ops/Rayleigh_Bots.git`<br>
+   `cd Rayleigh_Bots`<br>
+2. Install semua modul dan dependensi yang dibutuhkan:<br>
+   `npm install`<br>
+3. Jalankan bot:<br>
+   `npm start`
 
 ## ⚙️ Variabel Lingkungan (`.env`)
 Pastikan kamu mengatur variabel environment berikut jika diperlukan untuk integrasi API eksternal:
